@@ -19,23 +19,23 @@ _El orden de la ejecucion para poder hallar el calculo del pago de AVERIAS es el
 
 ## Validación ⚙️
 
-_Los querys fueron validados correctamente al 100%, cualquier cambio que ocurra, hacer modifcaciones en los archivos correspondientes_
+Los querys fueron validados correctamente al 100%, cualquier cambio que ocurra, hacer modifcaciones en los archivos correspondientes_
 
 ## Desarrolado con 🛠️
 
-_La automatizacion se desarrollo utilizando como gestor de base de datos SQL_SERVER_
+La automatizacion se desarrollo utilizando como gestor de base de datos SQL_SERVER
 
 ## Contribuyentes 🖇️
 
-_Este proyecto no fuera posible sin el apoyo de Diego Iparraguire, Fabiola Arce, Gloria Abad, y el area de STC
+Este proyecto no fuera posible sin el apoyo de Diego Iparraguire, Fabiola Arce, Gloria Abad, y el area de STC
 
 ## Autores ✒️
 
 _El Team Bucle Ice_
 
-* **Alexander Principe** - *Proceso de Averias* - [villanuevand](https://github.com/AlexanderPrincipe)
-* **Jose Ramos** - *Proceso de Provision* - [fulanitodetal](https://github.com/JoseRamos)
-* **Carlos Molina** - *Documentación* - [fulanitodetal](https://github.com/CarlosMolina)
+* **Alexander Principe** - *Proceso de Averias* - [alexanderprincipe](https://github.com/AlexanderPrincipe)
+* **Jose Ramos** - *Proceso de Provision* - [joseramos](https://github.com/JoseRamos)
+* **Carlos Molina** - *Documentación* - [carlosmolina](https://github.com/CarlosMolina)
 
 ## Licencia 📄
 
