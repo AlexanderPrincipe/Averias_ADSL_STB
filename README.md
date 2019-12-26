@@ -19,7 +19,7 @@ _El orden de la ejecucion para poder hallar el calculo del pago de AVERIAS es el
 
 ## Validación ⚙️
 
-Los querys fueron validados correctamente al 100%, cualquier cambio que ocurra, hacer modifcaciones en los archivos correspondientes_
+Los querys fueron validados correctamente al 100%, cualquier cambio que ocurra, hacer modifcaciones en los archivos correspondientes
 
 ## Desarrolado con 🛠️
 
