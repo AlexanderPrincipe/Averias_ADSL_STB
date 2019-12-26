@@ -39,7 +39,7 @@ _El Team Bucle Ice_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (MIT license), la utilizacion, distribucion, comercializacion del siguiente repositorio esta disponible solo para personas autorizadas
+Este proyecto está bajo la Licencia (MIT license), la utilización, distribución y/o comercialización del siguiente repositorio esta disponible solo para personas autorizadas
 
 ## Expresiones de Gratitud 🎁
 
