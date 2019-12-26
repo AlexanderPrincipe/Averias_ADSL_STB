@@ -27,7 +27,7 @@ La automatizacion se desarrollo utilizando como gestor de base de datos SQL_SERV
 
 ## Contribuyentes 🖇️
 
-Este proyecto no fuera posible sin el apoyo de Diego Iparraguire, Fabiola Arce, Gloria Abad, y el area de STC
+Este proyecto no fuera posible sin el apoyo de Diego Iparraguire, Fabiola Arce, Gloria Abad, y el área de STC
 
 ## Autores ✒️
 
