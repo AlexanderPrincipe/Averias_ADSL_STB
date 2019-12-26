@@ -21,7 +21,7 @@ _El orden de la ejecucion para poder hallar el calculo del pago de AVERIAS es el
 
 Los querys fueron validados correctamente al 100%, cualquier cambio que ocurra, hacer modifcaciones en los archivos correspondientes
 
-## Desarrolado con 🛠️
+## Desarrollado con 🛠️
 
 La automatizacion se desarrollo utilizando como gestor de base de datos SQL_SERVER
 
