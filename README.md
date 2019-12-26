@@ -7,7 +7,7 @@ _Practicas TDP Nuevo Contrato Bucle_
 
 En este repositorio se encuentra todo el codigo que AP desarrollo cuando fue practicante de TDP_
 
-La automatizacion fue realiada por el team Bucle Ice conformado por AP, JR y CM, AP se dedico al proceso de averias, JR y CM se dedicaron al proceso de Provisiones
+La automatizacion fue realizada por el team Bucle Ice conformado por AP, JR y CM, AP se dedico al proceso de averias, JR y CM se dedicaron al proceso de Provisiones
 
 ### Guia 🔧
 
