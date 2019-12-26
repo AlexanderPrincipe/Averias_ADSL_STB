@@ -34,7 +34,7 @@ Este proyecto no fuera posible sin el apoyo de Diego Iparraguire, Fabiola Arce, 
 _El Team Bucle Ice_
 
 * **Alexander Principe** - *Proceso de Averias* - [alexanderprincipe](https://github.com/AlexanderPrincipe)
-* **Jose Ramos** - *Proceso de Provision* - [joseramos](https://github.com/JoseRamos)
+* **Jose Ramos** - *Proceso de Provision* - [joseramos](https://github.com/jonuel63)
 * **Carlos Molina** - *Documentación* - [carlosmolina](https://github.com/CarlosMolina)
 
 ## Licencia 📄
