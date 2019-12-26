@@ -9,7 +9,7 @@ En este repositorio se encuentra todo el codigo que AlexanderPrincipe desarrollo
 
 La automatizacion fue realizada por el team Bucle Ice conformado por AP, JR y CM, AP se dedico al proceso de averias, JR y CM se dedicaron al proceso de Provisiones
 
-### Guia 🔧
+## Guia 🔧
 
 _El orden de la ejecucion para poder hallar el calculo del pago de AVERIAS es el siguiente:_
 
