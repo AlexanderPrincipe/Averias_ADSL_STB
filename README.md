@@ -41,11 +41,13 @@ _El Team Bucle Ice_
 
 Este proyecto está bajo la Licencia (MIT license), la utilización, distribución y/o comercialización del siguiente repositorio esta disponible solo para personas autorizadas
 
+## Extra 📄
+
+Un saludo expecial para el team Forecast por su gran trabajo, saludo especial de José para Sara, saludos a Jhovany, a Jesus Grande, a Renzo y a todos los que estuvieron participando y apoyando en el proyecto.
+
 ## Expresiones de Gratitud 🎁
 
 * Agradecimiento especial al Team Bucle Ice que hizo un excepcional trabajo, se obtuvo el segundo puesto del concurso MovistarChallenge 📢
-
-
 
 
 ---
