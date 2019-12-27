@@ -5,7 +5,7 @@ _Automatizacion del calculo del nuevo modelo del contrato Bucle_
 
 ### Comentarios 📋
 
-En este repositorio se encuentra todo el codigo que AlexanderPrincipe desarrollo cuando fue practicante de TDP_
+En este repositorio se encuentra todo el código que AlexanderPrincipe desarrolló cuando fue practicante de TDP
 
 La automatizacion fue realizada por el team Bucle Ice conformado por AP, JR y CM, AP se dedico al proceso de averias, JR y CM se dedicaron al proceso de Provisiones
 
