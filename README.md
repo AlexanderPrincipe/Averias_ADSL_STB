@@ -43,7 +43,7 @@ Este proyecto está bajo la Licencia (MIT license), la utilización, distribuci�
 
 ## Extra 📄
 
-Un saludo expecial para el team Forecast por su gran trabajo, saludo especial de José para Sara, saludos a Jhovany, a Jesus Grande, a Renzo y a todos los que estuvieron participando y apoyando en el proyecto.
+Un saludo expecial para el team Forecast por su gran trabajo, saludos a Jhovany, a Jesus Grande, a Renzo y a todos los que estuvieron participando y apoyando en el proyecto.
 
 ## Expresiones de Gratitud 🎁
 
